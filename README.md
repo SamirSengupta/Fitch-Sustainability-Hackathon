@@ -27,7 +27,6 @@ SamirSengupta/Fitch-Sustainability-Hackathon/
 ├── notebooks/
 │   ├── data_and_feature_engineering.ipynb   # Data cleaning & feature creation
 │   ├── baseline_model_and_inference.ipynb   # Model training & prediction generation
-│   ├── EDA.ipynb                            # Exhaustive EDA
 │   └── submission.csv                       # Final predictions for the test set
 │
 ├── requirements.txt                # Python dependencies
